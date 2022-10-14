@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/flutterapps/ClothingEcommerceApp/app/src/main/res/layout/activity_add_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/flutterapps/ClothingEcommerceApp/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/flutterapps/ClothingEcommerceApp/app/src/main/res/layout/search_data.xml" value="0.36666666666666664" />
+        <entry key="..\:/flutterapps/ClothingEcommerceApp/app/src/main/res/menu/order_history_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/drawable/blur_background.xml" value="0.292" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/drawable/button_colors.xml" value="0.209" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/drawable/cart_layour_bg.xml" value="0.1925" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/drawable/header_backgroind.xml" value="0.212" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/drawable/search_background.xml" value="0.292" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/drawable/square_background.xml" value="0.117" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/drawable/yes_no_bg.xml" value="0.1925" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/activity_add_product.xml" value="0.4" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/activity_my_cart_bag.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/activity_order_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/activity_place_order.xml" value="0.152" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/activity_product_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/activity_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/cart_item_recycler_data.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/dialog_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/order_history_recycler_data.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/product_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/related_product_recycler_data.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/layout/search_data.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/menu/order_history_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/flutterapps/ColothEcommerceApp/app/src/main/res/menu/pop_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

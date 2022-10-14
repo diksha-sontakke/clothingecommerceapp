@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261917836099",
+    "project_id": "colothingecommerceapp",
+    "storage_bucket": "colothingecommerceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261917836099:android:008700640e0c15cf5f65f6",
+        "android_client_info": {
+          "package_name": "com.example.clothecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261917836099-pa246jscamc1cq5j13t7v7o1tu7lu40s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB40ybwjnHEZc2kqilpy_RCtEQbf7Xvs4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261917836099-pa246jscamc1cq5j13t7v7o1tu7lu40s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
